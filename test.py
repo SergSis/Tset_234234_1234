@@ -9,7 +9,7 @@ import asyncio
 
 nest_asyncio.apply()
 
-BOT_TOKEN = '7668834365:AAH26VRUz_hHjKzbwSf51uSGBsMD-z-DaPc'
+BOT_TOKEN = ''
 user_backgrounds = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
